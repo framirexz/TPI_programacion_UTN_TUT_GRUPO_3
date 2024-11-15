@@ -4,6 +4,7 @@ Repositorio creado para el trabajo final integrador de Programación I
 Integrantes: 
   Jorge Krenz
   Andres Monzon
+  Antonio luis Sanchez Feraldo
   Facundo Ramirez
 
 Programas realizados
@@ -17,4 +18,5 @@ Programas realizados
   Interés
   Adivinar
   
-  
+Metodología utilizada: 
+  Dos programas por integrante, verificación grupal de la logíca implmentada en cada uno
