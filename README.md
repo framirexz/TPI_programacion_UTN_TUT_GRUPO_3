@@ -2,7 +2,7 @@
 Repositorio creado para el trabajo final integrador de Programación I
 
 Integrantes: 
-  *Jorge Krenz
+
   *Andres Monzon
   *Marcelo Antonio Luis, Sanchez Feraldo
   *Facundo Ramirez
