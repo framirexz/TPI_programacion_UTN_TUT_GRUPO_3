@@ -3,9 +3,10 @@ Repositorio creado para el trabajo final integrador de Programación I
 
 Integrantes: 
 
-  *Andres Monzon
+  *Andres, Monzon
+  *Jose, Cuellar
   *Marcelo Antonio Luis, Sanchez Feraldo
-  *Facundo Ramirez
+  *Facundo, Ramirez
 
 Programas realizados
   #Calculadora
