@@ -12,15 +12,16 @@ Este repositorio contiene los desarrollos realizados como parte del trabajo fina
 
 ## Programas Realizados
 
+- Adivinar
+- Área de un Triángulo
 - Calculadora
-- Promedio
+- Calcular Promedio
+- Calcular el Interés
 - Contador de Vocales
 - Invertir
+- Piramide
 - Suma de Matrices
-- Triángulo
 - Tabla de Multiplicar
-- Interés
-- Adivinar
 
 ## Metodología de Desarrollo
 
