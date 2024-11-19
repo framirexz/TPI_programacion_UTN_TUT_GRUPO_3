@@ -1,3 +1,8 @@
+//Andres Monzon
+//Grupo 3
+//Programacion
+//Tecnicatura Universitaria en Telecomunicaciones
+// Año Lectivo 2024
 Algoritmo  TablaDeMultiplicar
 		// Definir variables
 		Definir numero, i Como Entero

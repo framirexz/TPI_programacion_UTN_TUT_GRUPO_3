@@ -1,6 +1,8 @@
-//Interes
-//Facundo Ramirez 
-//Grupo 3 TUT-UTN PROGRAMACION I
+//Facundo Ramirez
+//Grupo 3
+//Programacion
+//Tecnicatura Universitaria en Telecomunicaciones
+// Año Lectivo 2024
 Algoritmo calcular_interes
     Definir capital, tiempo, interes Como Real
     Definir tasa Como Real

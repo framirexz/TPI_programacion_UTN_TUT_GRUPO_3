@@ -1,9 +1,10 @@
-//Promedio
-//Facundo Ramirez 
-//Grupo 3 TUT-UTN PROGRAMACION I
+//Facundo Ramirez
+//Grupo 3
+//Programacion
+//Tecnicatura Universitaria en Telecomunicaciones
+// Año Lectivo 2024
 Algoritmo calcular_promedio
-    Definir num, suma, promedio, cantidad Como Real
-	
+	Definir num, suma, promedio, cantidad Como Real
 	Escribir "***********************************"
     Escribir "*  Promedio  Grupo 3 TUT-UTN      *"
 	Escribir "***********************************"

@@ -1,4 +1,8 @@
-
+//Andres Monzon
+//Grupo 3
+//Programacion
+//Tecnicatura Universitaria en Telecomunicaciones
+// Año Lectivo 2024
 	Algoritmo construirPiramide
 		// Defino variables
 		Definir altura, filaActual, posicion Como Entero

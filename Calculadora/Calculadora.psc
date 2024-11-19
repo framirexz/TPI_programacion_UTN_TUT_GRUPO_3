@@ -1,6 +1,8 @@
-//Calculadora
-//Facundo Ramirez 
-//Grupo 3 TUT-UTN PROGRAMACION I
+//Facundo Ramirez
+//Grupo 3
+//Programacion
+//Tecnicatura Universitaria en Telecomunicaciones
+// Año Lectivo 2024
 Algoritmo calculadora
     Definir num1, num2, resultado Como Real
     Definir opcion Como Entero

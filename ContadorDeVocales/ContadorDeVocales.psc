@@ -1,6 +1,8 @@
-//Contador De Vocales
-//Facundo Ramirez 
-//Grupo 3 TUT-UTN PROGRAMACION I
+//Facundo Ramirez
+//Grupo 3
+//Programacion
+//Tecnicatura Universitaria en Telecomunicaciones
+// Año Lectivo 2024
 Algoritmo ContadorDeVocales
 	Definir frase Como Caracter
 	Definir n,c,v,x Como Entero
